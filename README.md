@@ -5,6 +5,8 @@
 - Detectar puertos abiertos.
 - Probar credenciales SSH y RDP en hosts activos.
 - Exportar resultados por categoría.
+- 
+![Vista de la interfaz](a.png)
 
 ---
 ## 🔍 Funcionalidades relacionadas con NLBrute
