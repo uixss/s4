@@ -7,6 +7,17 @@
 - Exportar resultados por categoría.
 
 ---
+## 🔍 Funcionalidades relacionadas con NLBrute
+
+| Característica                         | Descripción                                                                 |
+|---------------------------------------|-----------------------------------------------------------------------------|
+| **Escaneo de subredes**               | Detecta IPs activas automáticamente desde archivos de entrada.             |
+| **Pruebas de acceso SSH**             | Usa `asyncssh` para probar credenciales en el puerto 22.                   |
+| **Pruebas de acceso RDP**             | Usa `xfreerdp` para automatizar autenticaciones por RDP (puerto 3389).     |
+| **Fuerza bruta controlada**           | Proceso batch de usuarios/contraseñas configurable por el usuario.         |
+| **Parámetros configurables**          | Timeout, hilos, intentos, puertos, escaneo completo o parcial.             |
+| **Exportación de resultados**         | Archivos de salida categorizados: IPs activas, puertos, SSH, RDP.          |
+| **Interfaz de usuario (GUI)**         | Control visual del proceso, progreso en tiempo real, pestañas de resultados.|
 
 ## ⚙️ Funcionamiento General
 
